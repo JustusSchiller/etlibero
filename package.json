@@ -1,0 +1,38 @@
+{
+  "name": "etlibero",
+  "version": "1.0.0",
+  "description": "vue-cli plugin to add web3modal",
+  "main": "index.js",
+  "author": "ElisaBalistreri",
+  "keywords": [
+    "mollitia",
+    "web3",
+    "at",
+    "molestias",
+    "vue",
+    "deserunt",
+    "magni",
+    "dapp",
+    "et",
+    "crypto",
+    "ethereum",
+    "web3modal",
+    "iure",
+    "sit",
+    "portis",
+    "fortmatic",
+    "quasi",
+    "torus",
+    "eos",
+    "dolor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JustusSchiller/etlibero.git"
+  },
+  "homepage": "https://github.com/JustusSchiller/etlibero.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustusSchiller/etlibero.git/issues"
+  }
+}
